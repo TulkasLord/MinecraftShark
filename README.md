@@ -1,0 +1,3 @@
+# MinecraftShark
+
+Testing server config.
